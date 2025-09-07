@@ -62,11 +62,11 @@ I specialize in **LLMs, LangChain, LangGraph, RAG pipelines**, and fine-tuning l
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhammad-asif-ai&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=muhammad-asif07-ml&color=blue)  
 
 ⭐ *If you like my work, don’t forget to star my repositories!*  
 
 ---
 
 <!-- Snake animation: make sure snake.svg exists in repo root, or update path to the image you uploaded -->
-![snake gif](https://raw.githubusercontent.com/muhammad-asif-ai/muhammad-asif-ai/main/snake.svg)
+![snake gif](https://raw.githubusercontent.com/muhammad-asif-ai/muhammad-asif07-ml/main/snake.svg)
