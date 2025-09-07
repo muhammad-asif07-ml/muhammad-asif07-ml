@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Asif  
 
-<!--
-**muhammad-asif07-ml/muhammad-asif07-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=800&lines=AI+Engineer+%7C+ML+%26+Generative+AI;LLMs+Fine-Tuning+%7C+LangChain+%26+RAG;Building+AI+Agents+%7C+Automation+Workflows)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me  
+AI Engineer passionate about **Machine Learning**, **Generative AI**, and **LLM applications**.  
+I specialize in **LLMs, LangChain, LangGraph, RAG pipelines**, and fine-tuning large language models for real-world intelligent solutions.  
+
+---
+
+## 🚀 What I Do  
+✅ Build **AI/ML models** with Python & Scikit-learn  
+✅ Design **Generative AI solutions** using LLMs and fine-tuning techniques  
+✅ Implement **RAG pipelines** for knowledge-augmented AI systems  
+✅ Develop **AI Agents** with LangChain and LangGraph  
+✅ Perform **EDA & Visualization** with Pandas, Matplotlib, Seaborn  
+✅ Create **interactive dashboards & AI-powered apps** using Streamlit
+
+---
+
+## 💻 Tech Stack  
+
+### 🧠 **AI & ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=for-the-badge)
+
+### 🤖 **Generative AI & LLMs**
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### ⚙️ **Other Tools**
+![n8n](https://img.shields.io/badge/n8n-1ABC9C?style=for-the-badge&logo=n8n&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Featured Projects  
+- [🤖 **AI Agent with LangChain & LangGraph**](https://github.com/muhammad-asif-ml/ai-agent) – Building autonomous agents for real-world tasks  
+- [🧠 **Generative AI App (LLM Fine-Tuning)**](https://github.com/muhammad-asif-ml/genai-finetuning) – Fine-tuned LLM models for NLP applications  
+- [📊 **ML Pipeline with Feature Engineering & Ensemble Learning**](https://github.com/muhammad-asif-ml/ml-pipeline) – End-to-end ML pipeline for predictive analytics  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-asif-ai&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif-ai&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-asif-ai&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect With Me  
+📧 **Email:** maherasif698@gmail.com  
+  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=muhammad-asif-ai&color=blue)  
+
+⭐ *If you like my work, don’t forget to star my repositories!*  
+
+---
+
+<!-- Snake animation: make sure snake.svg exists in repo root, or update path to the image you uploaded -->
+![snake gif](https://raw.githubusercontent.com/muhammad-asif-ai/muhammad-asif-ai/main/snake.svg)
