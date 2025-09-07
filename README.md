@@ -43,8 +43,8 @@ I specialize in **LLMs, LangChain, LangGraph, RAG pipelines**, and fine-tuning l
 ---
 
 ## 📌 Featured Projects  
-- [🤖 **AI Agent with LangChain & LangGraph**](https://github.com/muhammad-asif-ml/ai-agent) – Building autonomous agents for real-world tasks  
-- [🧠 **Generative AI App (LLM Fine-Tuning)**](https://github.com/muhammad-asif-ml/genai-finetuning) – Fine-tuned LLM models for NLP applications  
+- [🤖 **AI Agent with LangChain & LangGraph**](https://github.com/muhammad-asif07-ml/meeting-prepration-agent) – Building autonomous agents for real-world tasks  
+- [🧠 **Generative AI App (LLM Fine-Tuning)**](https://www.kaggle.com/code/muhammadasif786/fine-tuning-llama-3/edit) – Fine-tuned LLM models for NLP applications  
 - [📊 **ML Pipeline with Feature Engineering & Ensemble Learning**](https://github.com/muhammad-asif-ml/ml-pipeline) – End-to-end ML pipeline for predictive analytics  
 
 ---
