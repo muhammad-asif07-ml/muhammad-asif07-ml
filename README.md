@@ -50,9 +50,9 @@ I specialize in **LLMs, LangChain, LangGraph, RAG pipelines**, and fine-tuning l
 ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-asif-ai&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif-ai&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-asif-ai&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-asif07-ml&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif07-ml&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-asif07-ml&layout=compact&theme=radical)  
 
 ---
 
