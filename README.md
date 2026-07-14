@@ -12,7 +12,7 @@ I specialize in **LLMs, LangChain, LangGraph, and RAG pipelines**, as well as fi
 
 ## 🚀 What I Do  
 ✅ Build **AI/ML models** with Python & Scikit-learn  
-✅ Design **Generative AI solutions** using LLMs and fine-tuning techniques  
+✅ Workflow Automations **n8n**  
 ✅ Implement **RAG pipelines** for knowledge-augmented AI systems  
 ✅ Develop **AI Agents** with LangChain and LangGraph  
 ✅ Perform **EDA & Visualization** with Pandas, Matplotlib, Seaborn  
