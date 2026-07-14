@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Asif  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=800&lines=AI+Engineer+%7C+ML+%26+Generative+AI;LLMs+Fine-Tuning+%7C+LangChain+%26+RAG;Building+AI+Agents+%7C+Automation+Workflows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=800&lines=AI+Engineer+%7C+ML+%26+Generative+AI+%7C+LangChain+%26+RAG;Building+AI+Agents+%7C+Automation+Workflows)](https://git.io/typing-svg)
 
 ---
 
