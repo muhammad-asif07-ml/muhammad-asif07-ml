@@ -23,12 +23,12 @@ I am an **AI Engineer** who specializes in moving businesses from basic chatbots
 
 ### 🤖 **Generative AI & Agentic Orchestration**
 * **Frameworks:** LangGraph, LangChain, n8n Core Integration
-* **LLM Models:** OpenAI GPT-4o, Anthropic Claude 3.5 Sonnet, Llama-3
+* **LLM Models:** OpenAI GPT-4o, Gimini
 
 ### 🧠 **Data Engineering & Machine Learning**
 * **Core Language:** Python 3.10+
 * **ML Libraries:** Scikit-learn, NumPy, Pandas
-* **IDE & Tools:** VS Code, Git, GitHub Ecosystem
+* **IDE & Tools:** VS Code
 
 ### 📊 **Analytics & UI Frontends**
 * **Web UI Frameworks:** Streamlit Dashboard Architecture
