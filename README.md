@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Muhammad Asif  
 
-[![Typing SVG](https://demolab.com)](https://github.com)
+### **AI Engineer | LangGraph & n8n Automation Specialist**  
+*Building production-grade AI agents, advanced RAG architectures, and resilient backend systems.*
+
 
 
 ---
