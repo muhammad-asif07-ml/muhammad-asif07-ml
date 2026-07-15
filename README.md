@@ -1,12 +1,7 @@
 # 👋 Hi, I'm Muhammad Asif  
 
-[![Typing SVG](https://herokuapp.com)](https://git.io/typing-svg)
+[![Typing SVG](https://demolab.com)](https://github.com)
 
----
-
-## 🏪 Official Asset Store
-🚀 **Need production-ready AI blueprints?** Check out my official store repo for enterprise-grade, battle-tested workflows:
-👉 **[Get the Enterprise AI Agency Core Suite on Gumroad](https://gumroad.com)**
 
 ---
 
