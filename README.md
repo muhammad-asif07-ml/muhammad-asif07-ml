@@ -1,72 +1,74 @@
 # 👋 Hi, I'm Muhammad Asif  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=800&lines=AI+Engineer+%7C+ML+%26+Generative+AI+%7C+LangChain+%26+RAG;Building+AI+Agents+%7C+Automation+Workflows)](https://git.io/typing-svg)
+[![Typing SVG](https://herokuapp.com)](https://git.io/typing-svg)
+
+---
+
+## 🏪 Official Asset Store
+🚀 **Need production-ready AI blueprints?** Check out my official store repo for enterprise-grade, battle-tested workflows:
+👉 **[Get the Enterprise AI Agency Core Suite on Gumroad](https://gumroad.com)**
 
 ---
 
 ## 💫 About Me  
-AI Engineer passionate about **Machine Learning**, **Generative AI**, and **LLM applications**.  
-I specialize in **LLMs, LangChain, LangGraph, and RAG pipelines**, as well as fine-tuning large language models for real-world intelligent solutions.  
+I am an **AI Engineer** who specializes in moving businesses from basic chatbots to fully automated, revenue-generating agents. I focus on building production-grade backend logic and highly visual data automation pipelines.
 
 ---
 
 ## 🚀 What I Do  
-✅ Build **AI/ML models** with Python & Scikit-learn  
-✅ Workflow Automations **n8n**  
-✅ Implement **RAG pipelines** for knowledge-augmented AI systems  
-✅ Develop **AI Agents** with LangChain and LangGraph  
-✅ Perform **EDA & Visualization** with Pandas, Matplotlib, Seaborn  
-✅ Create **interactive dashboards & AI-powered apps** using Streamlit
+✅ **Stateful AI Agents:** Build complex multi-agent systems using **LangGraph** and **LangChain** with human-in-the-loop approvals.  
+✅ **Enterprise Automation:** Engineer end-to-end data pipelines in **n8n** with global error handlers and custom JS routing.  
+✅ **Production RAG:** Implement advanced document parsing, chunking, and semantic search architectures.  
+✅ **Voice AI Engineering:** Deploy autonomous phone booking systems synced directly with CRMs using Vapi.  
+✅ **Data Visualization:** Create interactive metrics dashboards using Streamlit, Pandas, and Seaborn.
 
 ---
 
 ## 💻 Tech Stack  
 
-### 🧠 **AI & ML**
+### 🤖 **Generative AI & Agentic Orchestration**
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-1ABC9C?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🧠 **Data Engineering & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 📊 **Analytics & UI Frontends**
+![Streamlit](https://shields.io)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=for-the-badge)
 
-### 🤖 **Generative AI & LLMs**
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+---
 
-### ⚙️ **Other Tools**
-![n8n](https://img.shields.io/badge/n8n-1ABC9C?style=for-the-badge&logo=n8n&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 📌 Featured Production Architectures  
+
+*   **[🤖 Meeting Preparation Multi-Agent Network](https://github.com/muhammad-asif07-ml/meeting-prepration-agent)** – An autonomous Python framework using LangGraph to manage complex state transitions and gather corporate intelligence.
+*   **[📞 Vapi Voice AI Appointment Lifecycle Engine](https://gumroad.com)** – A full n8n infrastructure handling live voice bookings, cancellations, and rescheduling with global exception handling.
+*   **[🦺 Helpdesk Routing & SLA Watchdog Mesh](https://gumroad.com)** – An advanced support routing layout with semantic ticket routing and an automated escalation trigger for missed deadlines.
 
 ---
 
-## 📌 Featured Projects  
-- [🤖 **AI Agent with LangChain & LangGraph**](https://github.com/muhammad-asif07-ml/meeting-prepration-agent) – Building autonomous agents for real-world tasks  
-- [🧠 **Generative AI App (LLM Fine-Tuning)**](https://www.kaggle.com/code/muhammadasif786/fine-tuning-llama-3/edit) – Fine-tuned LLM models for NLP applications  
-  
-
----
-
-## 📊 GitHub Stats  
+## 📊 GitHub System Analytics  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-asif07-ml&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asif07-ml&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-asif07-ml&layout=compact&theme=radical)  
 
 ---
 
-## 🌐 Connect With Me  
-📧 **Email:** maherasif698@gmail.com  
-  
+## 🌐 Connect & Collaborate  
+📧 **Direct Email:** maherasif698@gmail.com  
+💼 **Upwork / Remote Inquiries:** Available for custom workflow architecture design and consulting.
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muhammad-asif07-ml&color=blue)  
 
-⭐ *If you like my work, don’t forget to star my repositories!*  
+⭐ *If you find value in my open-source frameworks, don't forget to star my repositories!*  
 
 ---
-
-<!-- Snake animation: make sure snake.svg exists in repo root, or update path to the image you uploaded -->
 ![snake gif](https://raw.githubusercontent.com/muhammad-asif-ai/muhammad-asif07-ml/main/snake.svg)
